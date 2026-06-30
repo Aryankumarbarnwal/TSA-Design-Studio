@@ -114,12 +114,12 @@ const Footer = () => {
 
               <div className="flex items-center gap-3 text-gray-300">
                 <FiPhone className="text-bronze text-lg" />
-                <span>+91 98765 43210</span>
+                <span>+91 xxxxxxxxxx</span>
               </div>
 
               <div className="flex items-center gap-3 text-gray-300">
                 <FiMail className="text-bronze text-lg" />
-                <span>contact@thespacearch.com</span>
+                <span>contact@TSADESiGN.com</span>
               </div>
             </div>
           </div>
